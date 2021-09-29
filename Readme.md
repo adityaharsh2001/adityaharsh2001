@@ -34,9 +34,7 @@
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityaharsh2001&repo=online-ide&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
-    <a href="https://github.com/adityaharsh2001/birhday">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityaharsh2001&repo=birthday&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
+    
 </p>    
 
 <h1 align="center"> 🔧 Skills & Tools: </h1>
