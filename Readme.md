@@ -31,7 +31,7 @@
   <a href="https://github.com/adityaharsh2001/unfurling-meet">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityaharsh2001&repo=unfurling-meet&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+  <a href="https://github.com/adityaharsh2001/online-ide">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityaharsh2001&repo=online-ide&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
     
