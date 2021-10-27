@@ -4,7 +4,6 @@
   </a>
 </h1>
 
-
 <h1 align="center"> 📊 Stats: </h1>
 
 <p align="center">
@@ -21,7 +20,7 @@
 <p align="center">
   
   <br>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/adityaharsh2001/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=adityaharsh2001&theme=react-dark&hide_border=true">
   </a>
 </p>
