@@ -6,7 +6,7 @@
 
 <h1 align="center"> 📊 Stats: </h1>
 
-<p>
+<p align="center>
   
   
   
