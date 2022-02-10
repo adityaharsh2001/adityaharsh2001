@@ -13,6 +13,7 @@
   <a href="https://github.com/adityaharsh2001/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=adityaharsh2001&show_icons=true&theme=dracula" >
   </a>
+  <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaharsh2001&layout=compact&theme=dracula" >
   </a>
