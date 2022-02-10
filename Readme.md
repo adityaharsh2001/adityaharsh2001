@@ -23,7 +23,7 @@
   
   <br>
   <a href="https://github.com/adityaharsh2001/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=adityaharsh2001&theme=react-dark&hide_border=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=adityaharsh2001&theme=rogue&hide_border=true">
   </a>
 </p>
 
