@@ -11,10 +11,10 @@
   
   
   <a href="https://github.com/adityaharsh2001/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=adityaharsh2001&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" >
+    <img src="https://github-readme-stats.vercel.app/api?username=adityaharsh2001&show_icons=true&theme=dracula" >
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaharsh2001&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaharsh2001&layout=compact&theme=dracula" >
   </a>
  
 </p>
