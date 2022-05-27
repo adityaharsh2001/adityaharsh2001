@@ -10,25 +10,25 @@
 
 <h1 align="center"> 📊 Stats: </h1>
 
-<p align="center">
+<center>
   
   
-![Metrics](/metrics.plugin.isocalendar.svg)  
 ![](https://github-readme-stats.vercel.app/api?username=adityaharsh2001&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adityaharsh2001&theme=highcontrast&hide_border=false)<br/>
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaharsh2001&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </center>
 <h1 align="center"> 🔥 Contributions: </h1>
-<p align="center">
+<center>
   
   <br>
   <a href="https://github.com/adityaharsh2001/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=adityaharsh2001&theme=rogue&hide_border=true">
   </a>
-</p>
-<h1 align="center"> 🏆 GitHub Trophies: </h1>
+<img align="center" src="metrics.plugin.isocalendar.svg" alt="Metrics" width="100%">
 
-<center>
+
 
 ![](https://github-profile-trophy.vercel.app/?username=adityaharsh2001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
  
@@ -43,6 +43,11 @@
   </a>
     
 </p>    
+
+</center>
+<h1 align="center"> 🏆 GitHub Trophies: </h1>
+
+<center>
 
 <h1 align="center"> 🔧 Skills & Tools: </h1>
 
