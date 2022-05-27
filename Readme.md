@@ -1,14 +1,13 @@
-<center>
-
-
+<h1 align="center">
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);fmt.Println(%22Hello%2C%20World!%22);println!(%22Hello%2C%20World!%22);cout%20%3C%3C%20%22Hello%2C%20World!%22&center=true&size=27&width=550">
 
   </a>
+
+   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </h1>
 
-![Metrics](https://metrics.lecoq.io/adityaharsh2001?template=classic&isocalendar=1&base.indepth=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
 <h1 align="center"> 📊 Stats: </h1>
 
 <center>
@@ -16,21 +15,17 @@
   
 ![](https://github-readme-stats.vercel.app/api?username=adityaharsh2001&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
-</center>
-<center>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adityaharsh2001&theme=highcontrast&hide_border=false)
-</center>
 <br/>
 
 
-![Metrics](https://metrics.lecoq.io/adityaharsh2001?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&followup=1&code=1&base.indepth=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FCalcutta)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaharsh2001&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-
+</center>
 <h1 align="center"> 🔥 Contributions: </h1>
 <center>
-
+  <img align="center" src="metrics.plugin.isocalendar.svg" alt="Metrics" width="100%">
 
   <br>
   <a href="https://github.com/adityaharsh2001/github-readme-activity-graph">
@@ -39,7 +34,7 @@
 
 
 
-
+![](https://github-profile-trophy.vercel.app/?username=adityaharsh2001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
  
  </center>
 <h1 align="center"> ✨ PINNED: </h1>
@@ -56,7 +51,6 @@
 </center>
 <h1 align="center"> 🏆 GitHub Trophies: </h1>
 
-![Metrics](https://metrics.lecoq.io/adityaharsh2001?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta)
 <center>
 
 <h1 align="center"> 🔧 Skills & Tools: </h1>
@@ -76,7 +70,6 @@
 </h1>
 
 <hr>
-</center>
-![Metrics](https://metrics.lecoq.io/adityaharsh2001?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&base.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FCalcutta)
 
-   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
