@@ -34,7 +34,6 @@
 
 
 
-![](https://github-profile-trophy.vercel.app/?username=adityaharsh2001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
  
  </center>
 <h1 align="center"> ✨ PINNED: </h1>
@@ -52,6 +51,9 @@
 <h1 align="center"> 🏆 GitHub Trophies: </h1>
 
 <center>
+
+![](https://github-profile-trophy.vercel.app/?username=adityaharsh2001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</center>
 
 <h1 align="center"> 🔧 Skills & Tools: </h1>
 
