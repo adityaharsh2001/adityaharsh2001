@@ -77,7 +77,6 @@
 
 <hr>
 </center>
-
 ![Metrics](https://metrics.lecoq.io/adityaharsh2001?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&base.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FCalcutta)
 
    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
