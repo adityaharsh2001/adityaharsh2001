@@ -1,7 +1,11 @@
 <h1 align="center">
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);fmt.Println(%22Hello%2C%20World!%22);println!(%22Hello%2C%20World!%22);cout%20%3C%3C%20%22Hello%2C%20World!%22&center=true&size=27&width=550">
+
   </a>
+
+   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </h1>
 
 <h1 align="center"> 📊 Stats: </h1>
@@ -53,5 +57,8 @@
 </h1>
 
 <hr>
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 
 
