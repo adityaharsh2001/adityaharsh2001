@@ -13,20 +13,24 @@
 <center>
   
   
-![](https://github-readme-stats.vercel.app/api?username=adityaharsh2001&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adityaharsh2001&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=adityaharsh2001&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
+<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=adityaharsh2001&theme=highcontrast&hide_border=false)
+<br/>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaharsh2001&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </center>
 <h1 align="center"> 🔥 Contributions: </h1>
 <center>
-  
+  <img align="center" src="metrics.plugin.isocalendar.svg" alt="Metrics" width="100%">
+
   <br>
   <a href="https://github.com/adityaharsh2001/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=adityaharsh2001&theme=rogue&hide_border=true">
   </a>
-<img align="center" src="metrics.plugin.isocalendar.svg" alt="Metrics" width="100%">
 
 
 
