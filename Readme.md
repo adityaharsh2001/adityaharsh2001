@@ -25,7 +25,7 @@
 </center>
 <h1 align="center"> 🔥 Contributions: </h1>
 <center>
-  <img align="center" src="metrics.plugin.isocalendar.svg" alt="Metrics" width="100%">
+
 
   <br>
   <a href="https://github.com/adityaharsh2001/github-readme-activity-graph">
