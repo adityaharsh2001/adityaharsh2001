@@ -13,7 +13,7 @@
 <center>
   
   
-
+[![Aditya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=adityaharsh2001)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adityaharsh2001&theme=highcontrast&hide_border=false)
@@ -21,18 +21,17 @@
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaharsh2001&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+
+<h1 align="center"> 🔥 Contributions: </h1>
+
+<br/>
+
+[![Aditya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=adityaharsh2001)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
 
 </center>
-<h1 align="center"> 🔥 Contributions: </h1>
-<center>
 
-
-  <br>
-[![Aditya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=adityaharsh2001)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
- 
- </center>
 <h1 align="center"> ✨ PINNED: </h1>
 <p align="center">
   <a href="https://github.com/adityaharsh2001/unfurling-meet">
