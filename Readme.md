@@ -13,7 +13,7 @@
 <center>
   
   
-[![Aditya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=adityaharsh2001)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adityaharsh2001&theme=highcontrast&hide_border=false)
@@ -28,10 +28,7 @@
 
 
   <br>
-  <a href="https://github.com/adityaharsh2001/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=adityaharsh2001&theme=rogue&hide_border=true">
-  </a>
-
+[![Aditya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=adityaharsh2001)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
  
